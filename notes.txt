@@ -1,0 +1,12 @@
+Notes : Le minage se trouve dans world/minage/
+
+Plugins :
+  - CoreProtect
+
+X KoTH
+- Crates
+- Sticks (Heal, Strenght, Fire Resistance, Speed, Invisibility)
+- Wild
+- Nerf la notch apple
+- Crates
+- Cagnottes pour le staff

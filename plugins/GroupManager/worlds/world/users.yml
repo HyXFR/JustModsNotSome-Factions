@@ -1,0 +1,16 @@
+users:
+  ElgarL:
+    group: Guerrier
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  KHobbits:
+    group: Guerrier
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Guerrier
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

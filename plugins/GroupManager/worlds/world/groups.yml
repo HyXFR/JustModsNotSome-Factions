@@ -1,0 +1,110 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Permission:
+    default: false
+    permissions:
+    - essentials.spawn
+    - essentials.kit
+    - essentials.kits.Guerrier
+    - essentials.afk
+    - essentials.afk.kickexempt
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.home.bed
+    - essentials.ignore
+    - essentials.mail
+    - essentials.msg
+    - essentials.msg.color
+    - essentials.msg.url
+    - essentials.pay
+    - essentials.home
+    - essentials.sethome
+    - essentials.delhome
+    - essentials.tpa
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.worth
+    - essentials.chat.url
+
+
+    info:
+      prefix: '&7Guerrier '
+      build: true
+      suffix: ''
+  
+  # Joueurs
+  Guerrier:
+    default: true
+    permissions:
+    - essentials.sethome.multiple.Guerrier
+    inheritance:
+    - Permission
+    info:
+      prefix: '&7Guerrier '
+      build: true
+      suffix: ''
+  Chevalier:
+    default: false
+    permissions:
+    - essentials.sethome.multiple.Chevalier
+    - essentials.kits.Chevalier
+    - essentials.mail.send
+    - essentials.nick
+    inheritance:
+    - Permission
+    info:
+      prefix: '&3Chevalier '
+      build: true
+      suffix: ''
+  Noble:
+    default: false
+    permissions:
+    - essentials.sethome.multiple.Noble
+    - essentials.keepxp
+    - essentials.kits.Noble
+    - essentials.mail.send
+    - essentials.nick
+    inheritance:
+    - Permission
+    info:
+      prefix: '&bNoble '
+      build: true
+      suffix: ''
+  Roi:
+    default: false
+    permissions:
+    - essentials.sethome.multiple.Roi
+    - essentials.keepxp
+    - essentials.kits.Roi
+    - essentials.mail.send
+    - essentials.nick
+    inheritance:
+    - Permission
+    info:
+      prefix: '&cRoi '
+      build: true
+      suffix: ''
+
+  # Administration
+  Administrateur:
+    default: false
+    permissions:
+    - '*'
+    inheritance:
+    - Permission
+    info:
+      prefix: '&cAdministrateur '
+      build: true
+      suffix: ''

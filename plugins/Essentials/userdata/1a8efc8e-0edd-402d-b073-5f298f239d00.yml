@@ -1,0 +1,27 @@
+lastAccountName: HyXFR
+timestamps:
+  login: 1621270238468
+  logout: 1621268848236
+  kits:
+    guerrier: 1621171419244
+    noble: 1621171811205
+    roi: 1621171814409
+  lastteleport: 1621268734723
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: -5087.537844439612
+  y: 72.5
+  z: 4424.657773978713
+  yaw: -180.25713
+  pitch: -0.045233946
+lastlocation:
+  world: minage
+  x: 46.30000001192093
+  y: 16.0
+  z: 91.51999450943114
+  yaw: -270.2852
+  pitch: 65.18531
+powertools: {}
+money: '1.0'
+nickname: HyXFR
