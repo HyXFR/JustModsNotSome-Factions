@@ -1,8 +1,6 @@
 Settings:
-# GoatAndCow meilleur youtubeur minacrafte
-# Abonne toi si c'est pas déjà fais <3
   Prefix: '&6Hôtel de vente: ' #Prefix of when you get Crazy Auctions Messages.
-  GUIName: '&4GoatAndCow&8' #Name of the Main GUI.
+  GUIName: '&4HDV&8' #Name of the Main GUI.
   Players-Current-Items: '&8Vos listes actuelles' #The Name of the Player Current Items GUI.
   Cancelled/Expired-Items: '&8Listes annulées/expirées' #Name of the Canceled/Expired GUI.
   Buying-Item: '&8Achat d''un article : Êtes-vous sûr ?' #Name of the Buying GUI.

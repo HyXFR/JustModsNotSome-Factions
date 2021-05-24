@@ -2,11 +2,56 @@ Notes : Le minage se trouve dans world/minage/
 
 Plugins :
   - CoreProtect
+  - OPGuard
 
 X KoTH
-- Crates
+X Crates
 - Sticks (Heal, Strenght, Fire Resistance, Speed, Invisibility)
-- Wild
 - Nerf la notch apple
 - Crates
-- Cagnottes pour le staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==== ADMIN SPOIL WARNING ====
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMIN SPOIL :
+BlackMarket NPC : -5075 29 4810
+BlackMarket Coin = 50$

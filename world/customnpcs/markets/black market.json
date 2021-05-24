@@ -1,0 +1,487 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcOrb",
+                "Count": 36b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket Coin"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 33b,
+                "id": "customnpcs:npcOrb",
+                "Count": 18b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 34b,
+                "id": "customnpcs:npcOrb",
+                "Count": 4b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 18b,
+                "id": "customnpcs:npcOrb",
+                "Count": 64b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket Coin"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "customnpcs:npcOrb",
+                "Count": 15b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 20b,
+                "id": "customnpcs:npcOrb",
+                "Count": 4b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 21b,
+                "id": "customnpcs:npcOrb",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 22b,
+                "id": "customnpcs:npcOrb",
+                "Count": 10b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 23b,
+                "id": "customnpcs:npcOrb",
+                "Count": 4b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 24b,
+                "id": "customnpcs:npcOrb",
+                "Count": 2b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket Coin"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "customnpcs:npcOrb",
+                "Count": 12b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 27b,
+                "id": "customnpcs:npcOrb",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket Coin"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "customnpcs:npcOrb",
+                "Count": 15b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 30b,
+                "id": "customnpcs:npcOrb",
+                "Count": 12b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 31b,
+                "id": "customnpcs:npcOrb",
+                "Count": 7b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcOrb",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket UltraCoin"
+                    }
+                },
+                "Damage": 4s
+            },
+            {
+                "Slot": 1b,
+                "id": "simpleores:onyx_leggings",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 0s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "simpleores:onyx_shovel",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 32s
+                        },
+                        {
+                            "lvl": 2s,
+                            "id": 34s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "customnpcs:npcOrb",
+                "Count": 64b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": -1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "BlackMarket Coin"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "simpleores:onyx_boots",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 0s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "simpleores:onyx_hoe",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 34s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "minecraft:potion",
+                "Count": 3b,
+                "Damage": 16421s
+            },
+            {
+                "Slot": 7b,
+                "id": "simpleores:onyx_sword",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 16s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "minecraft:potion",
+                "Count": 2b,
+                "Damage": 8226s
+            },
+            {
+                "Slot": 10b,
+                "id": "simpleores:onyx_bow",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 48s
+                        },
+                        {
+                            "lvl": 1s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 2
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "simpleores:onyx_helmet",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 0s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "simpleores:onyx_pickaxe",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 32s
+                        },
+                        {
+                            "lvl": 2s,
+                            "id": 34s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "id": "simpleores:onyx_chestplate",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 0s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "id": "simpleores:onyx_axe",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 32s
+                        },
+                        {
+                            "lvl": 2s,
+                            "id": 34s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            }
+        ]
+    }
+}

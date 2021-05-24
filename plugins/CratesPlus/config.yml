@@ -1,0 +1,144 @@
+# [][][][][][][][][][][][][][][][][][][][][]
+#  CratesPlus V4.5.3 Config
+# [][][][][][][][][][][][][][][][][][][][][]
+# ------------------------------------------
+# There are many placeholders that can now be used withing the config and messages file, placeholders are as followed:
+# - %name% - Replaces with the players name, Example: "Notch".
+# - %displayname% - Replaces with the players display name, Example: "[Owner] Notch".
+# - %uuid% - Replaces with the players UUID.
+# - %crate% - The crate types name.
+# - %prize% - The name of the winning.
+# - %percentage% - Percentage of the winning, useful for "Chance Message".
+# - %rand;100;500% - Generates a random number between two numbers, example is between 100 and 500.
+# ------------------------------------------
+# Don't change the config version!
+
+Config Version: 6
+Update Checks: false
+Update Branch: spigot
+Metrics: true
+Default Opener: BasicGUI
+Default Cooldown: 5
+Crate Protection: false
+Disable Key Swapping: false
+Default Hologram Text:
+- '%crate%'
+- Clique droit pour l'ouvrir !
+- Clique gauche pour voir les gains !
+Crates:
+  KOTH:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: RED
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: CUSTOMNPCS_NPCORB
+        Item Data: 0
+        Name: BlackMarket Coin
+        Amount: 40
+        Enchantments:
+        - DURABILITY-65535
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: BlackMarket Coin
+          enchants:
+            DURABILITY: 65535
+          repair-cost: 2
+      '2':
+        Type: ITEM
+        Item Type: CUSTOMNPCS_NPCORB
+        Item Data: 4
+        Name: BlackMarket UltraCoin
+        Amount: 1
+        Enchantments:
+        - DURABILITY-65535
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: BlackMarket UltraCoin
+          enchants:
+            DURABILITY: 65535
+          repair-cost: 2
+      '3':
+        Type: ITEM
+        Item Type: GOLD_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: SIMPLEORES_ONYX_GEM
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '6':
+        Type: ITEM
+        Item Type: SIMPLEORES_ADAMANTIUM_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 18
+        Enchantments: []
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: SIMPLEORES_MYTHRIL_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 40
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: CUSTOMNPCS_NPCSTONEGUN
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: CUSTOMNPCS_NPCSTONEBULLET
+        Item Data: 0
+        Name: NONE
+        Amount: 20
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: TNT
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '11':
+        Type: ITEM
+        Item Type: MONSTER_EGG
+        Item Data: 50
+        Name: NONE
+        Amount: 4
+        Enchantments: []
+        Lore: []

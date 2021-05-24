@@ -12,6 +12,7 @@ groups:
   Permission:
     default: false
     permissions:
+    - wildernesstp.bypass.limit
     - essentials.spawn
     - essentials.kit
     - essentials.kits.Guerrier
