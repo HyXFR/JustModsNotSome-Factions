@@ -11,20 +11,20 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 7
+commands:
+  log: true
+  tab-complete: true
+  silent-commandblock-console: false
 settings:
-  player-shuffle: 0
-  sample-count: 12
-  late-bind: false
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
-  netty-threads: -1
+  late-bind: false
   fullMatchRate: 10
+  sample-count: 12
+  netty-threads: -1
   bungeecord: false
-commands:
-  log: true
-  silent-commandblock-console: false
-  tab-complete: true
+  player-shuffle: 0
 messages:
   restart: §7Le serveur se redémmare, veuillez ré-essayez dans quelques minutes.
   whitelist: §7Le serveur est en maintenance ! Plus d'informations sur nos réseaux socaiux !
@@ -38,23 +38,12 @@ stats:
 world-settings:
   default:
     verbose: false
-    enable-zombie-pigmen-portal-spawns: true
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
-    nerf-spawner-mobs: false
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-    mob-spawn-range: 4
     anti-xray:
       enabled: false
       engine-mode: 1
@@ -75,6 +64,16 @@ world-settings:
       replace-blocks:
       - 1
       - 5
+    mob-spawn-range: 4
+    nerf-spawner-mobs: false
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -90,13 +89,14 @@ world-settings:
       tile: 1000
       entity: 1000
     max-tnt-per-tick: 100
+    zombie-aggressive-towards-villager: true
+    view-distance: 10
+    enable-zombie-pigmen-portal-spawns: true
+    arrow-despawn-rate: 1200
+    item-despawn-rate: 6000
+    merge-radius:
+      item: 2.5
+      exp: 3.0
     chunks-per-tick: 650
     clear-tick-list: false
-    merge-radius:
-      exp: 3.0
-      item: 2.5
-    view-distance: 10
     use-async-lighting: false
-    zombie-aggressive-towards-villager: true
-    item-despawn-rate: 6000
-    arrow-despawn-rate: 1200

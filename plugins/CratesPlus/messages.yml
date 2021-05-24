@@ -13,12 +13,14 @@
 Prefix: '&bCrates '
 Command No Permission: '&cVous ne pouvez pas éxécuter cette commande !'
 Crate No Permission: '&cVous ne pouvez pas ouvrir cette crate !'
-Crate Open Without Key: '&cVous devez avoir une clé %crate% &cdans la main pour ouvrir cette crate !'
+Crate Open Without Key: '&cVous devez avoir une clé %crate% &cdans la main pour ouvrir
+  cette crate !'
 Key Given: '&aVous recevez une clé %crate%&a !'
 Broadcast: '&d%displayname% &a ouvrt la crate %crate% &d!'
 Cant Place: '&cVous ne pouvez pas posez de crate !'
 Cant Drop: '&cVous ne pouvez pas jeter des crates !'
 Chance Message: '&d%percentage%% Chance'
-Inventory Full Claim: '&aVotre inventaire est complet, vous pouvez recevoir vos clés en attente avec /crate.'
+Inventory Full Claim: '&aVotre inventaire est complet, vous pouvez recevoir vos clés
+  en attente avec /crate.'
 Claim Join: '&aVous avez des clés en attente ! Utilisez /crate pour les avoir'
 Possible Wins Title: 'Gains possibles :'
